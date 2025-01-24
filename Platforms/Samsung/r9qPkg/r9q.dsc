@@ -87,3 +87,4 @@
   gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|123
 
 !include SM8350Pkg/SM8350Pkg.dsc.inc
+
